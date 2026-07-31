@@ -54,7 +54,7 @@
       <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="GIt" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" />
       <br>Git
     </td>
   </tr>
@@ -76,11 +76,11 @@
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="55" height="55">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55" height="55" />
       <br>HTML5
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="55" height="55">
+     <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55" height="55" />
       <br>CSS3
     </td>
     <td align="center" width="90">

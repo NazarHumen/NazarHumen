@@ -102,7 +102,7 @@
 <table align="center">
   <tr>
     <td align="center" width="500">
-      ### 🛡️ [Military Shop](https://github.com/NazarHumen/drf-vue-military)
+     <h3><a href="https://github.com/NazarHumen/drf-vue-military">🛡️ Military Shop</a></h3>
       <p>A full-stack e-commerce web application<br>for buying and managing military equipment</p>
       <img src="https://skillicons.dev/icons?i=django,vue,postgres,docker,aws" height="40" />
       <p>
@@ -112,7 +112,7 @@
       </p>
     </td>
     <td align="center" width="500">
-       <h3><a href="https://github.com/NazarHumen/taskwallet">💼 TaskWallet</a></h3>
+       <h3><a href="https://github.com/NazarHumen/task-wallet-fastapi">💼 TaskWallet</a></h3>
       <p>A backend task management system with an internal wallet,<br>role-based access, and secure payment workflow</p>
       <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker" height="40" />
       <p>

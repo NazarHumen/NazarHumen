@@ -54,7 +54,7 @@
       <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" />
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="55" height="55" >
       <br>Git
     </td>
   </tr>
@@ -76,15 +76,15 @@
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55" height="55" />
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="55" height="55">
       <br>HTML5
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55" height="55" />
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="55" height="55">
       <br>CSS3
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="55" height="55" />
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="55" height="55">
       <br>PyCharm
     </td>
     <td align="center" width="90">

@@ -1,4 +1,4 @@
-<!-- ═══════════════ БАНЕР ═══════════════ -->
+<!-- ═══════════════ Banner ═══════════════ -->
 <div align="center">
   <img src="python-banner-blue.svg" width="100%" alt="Python Backend Banner" />
 </div>
@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist" width="30" align="center" /> **Python Backend Developer**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" align="center" /> Currently working with **Django** & **Django REST Framework**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" align="center" /> Currently working with **Django REST Framework**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="30" align="center" /> Currently learning **AWS**, **FastAPI** & **Vue.js**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" align="center" /> Building **REST APIs** and **scalable backend applications**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" /> Open to **Internship** & **Junior Backend Opportunities**
@@ -93,6 +93,8 @@
     </td>
   </tr>
 </table>
+
+<br></br>
 
 <!-- ═══════════════ Projects ═══════════════ -->
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" align="center" /> Projects</h1>

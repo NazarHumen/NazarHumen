@@ -102,7 +102,7 @@
 <table align="center">
   <tr>
     <td align="center" width="500">
-      <a href="https://github.com/NazarHumen/drf-vue-military"><h3>🛡️ Military Shop</h3></a>
+      ### 🛡️ [Military Shop](https://github.com/NazarHumen/drf-vue-military)
       <p>A full-stack e-commerce web application<br>for buying and managing military equipment</p>
       <img src="https://skillicons.dev/icons?i=django,vue,postgres,docker,aws" height="40" />
       <p>

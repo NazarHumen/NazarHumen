@@ -112,7 +112,7 @@
       </p>
     </td>
     <td align="center" width="500">
-       <a href="https://github.com/NazarHumen/task-wallet-fastapi">💼TaskWallet</a>
+       <h3><a href="https://github.com/NazarHumen/taskwallet">💼 TaskWallet</a></h3>
       <p>A backend task management system with an internal wallet,<br>role-based access, and secure payment workflow</p>
       <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker" height="40" />
       <p>

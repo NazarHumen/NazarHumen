@@ -54,7 +54,7 @@
       <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/git.svg" alt="Git" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="GIt" width="55" height="55" />
       <br>Git
     </td>
   </tr>

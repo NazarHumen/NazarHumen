@@ -21,7 +21,7 @@
 <br clear="right"/>
 
 <!-- ═══════════════ Tools ═══════════════ -->
-<h1 align="center">
+<h1>
   <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Tools & Technology
 </h1>
 

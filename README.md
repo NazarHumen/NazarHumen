@@ -94,6 +94,22 @@
   </tr>
 </table>
 
+<!-- ═══════════════ Tools ═══════════════ -->
+<h1 align="center">
+  <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Tools & Technology
+</h1>
+
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=Backend&slugs=python,django,fastapi,celery&bgColor=0d1117" alt="Backend: Python, Django, FastAPI, Celery" width="250" />
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=Data&slugs=postgresql,redis&bgColor=0d1117" alt="Data: PostgreSQL, Redis" width="250" />
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=DevOps&slugs=docker,git,github,amazonaws&bgColor=0d1117" alt="DevOps: Docker, Git, GitHub, AWS" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=Frontend&slugs=vuedotjs,javascript,html5,css3&bgColor=0d1117" alt="Frontend: Vue.js, JavaScript, HTML5, CSS3" width="250" />
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=Tools&slugs=pycharm,postman&bgColor=0d1117" alt="Tools: PyCharm, Postman" width="250" />
+</p>
+
 <br></br>
 
 <!-- ═══════════════ Projects ═══════════════ -->

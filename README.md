@@ -26,7 +26,7 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="90">
@@ -50,7 +50,7 @@
       <br>Celery
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="55" height="55" />
       <br>Docker
     </td>
     <td align="center" width="90">
@@ -60,19 +60,19 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" height="55" />
       <br>GitHub
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="55" height="55" />
       <br>AWS
     </td>
     <td align="center" width="90">
-      <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="55" height="55">
+      <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="55" height="55" />
       <br>Vue.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55" height="55" />
       <br>JavaScript
     </td>
     <td align="center" width="90">
@@ -80,11 +80,11 @@
       <br>HTML5
     </td>
     <td align="center" width="90">
-     <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55" height="55" />
       <br>CSS3
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="55" height="55">
+      <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="55" height="55" />
       <br>PyCharm
     </td>
     <td align="center" width="90">

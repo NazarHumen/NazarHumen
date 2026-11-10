@@ -21,74 +21,76 @@
 <br clear="right"/>
 
 <!-- ═══════════════ Tools ═══════════════ -->
-<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Tools & Technology</h1>
+<h1 align="center">
+  <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Tools & Technology
+</h1>
 
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/python.svg" alt="Python" width="70" height="77" />
       <br>Python
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=django" alt="Django" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/django.svg" alt="Django" width="70" height="77" />
       <br>Django
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/fastapi.svg" alt="FastAPI" width="70" height="77" />
       <br>FastAPI
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/postgresql.svg" alt="PostgreSQL" width="70" height="77" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/redis.svg" alt="Redis" width="70" height="77" />
       <br>Redis
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/celery/37814A" alt="Celery" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/celery.svg" alt="Celery" width="70" height="77" />
       <br>Celery
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/docker.svg" alt="Docker" width="70" height="77" />
       <br>Docker
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/git.svg" alt="Git" width="70" height="77" />
       <br>Git
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/github.svg" alt="GitHub" width="70" height="77" />
       <br>GitHub
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/aws.svg" alt="AWS" width="70" height="77" />
       <br>AWS
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/vuejs.svg" alt="Vue.js" width="70" height="77" />
       <br>Vue.js
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/javascript.svg" alt="JavaScript" width="70" height="77" />
       <br>JavaScript
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/html5.svg" alt="HTML5" width="70" height="77" />
       <br>HTML5
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/css3.svg" alt="CSS3" width="70" height="77" />
       <br>CSS3
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/pycharm.svg" alt="PyCharm" width="70" height="77" />
       <br>PyCharm
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="55" height="55" />
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/postman.svg" alt="Postman" width="70" height="77" />
       <br>Postman
     </td>
   </tr>

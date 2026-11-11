@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 176" width="84" height="92" role="img" aria-label="css3">
+  <defs>
+    <radialGradient id="halo"><stop offset="0" stop-color="#1572b6" stop-opacity=".55"/><stop offset=".6" stop-color="#1572b6" stop-opacity=".18"/><stop offset="1" stop-color="#1572b6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .halo{animation:halo 3s ease-in-out infinite;animation-delay:-2.33s;transform-origin:80px 84px}
+    .ring{animation:spin 12s linear infinite;transform-origin:80px 84px}
+    .o1{animation:spin 4s linear infinite;animation-delay:-2.33s;transform-origin:80px 84px}
+    .o2{animation:spin 7s linear infinite reverse;animation-delay:-2.33s;transform-origin:80px 84px}
+    .float{animation:float 3s ease-in-out infinite;animation-delay:-2.33s;transform-origin:80px 84px}
+    .flip{animation:flip 6s ease-in-out infinite;animation-delay:-3.49s;transform-origin:80px 84px}
+    .shadow{animation:shadow 3s ease-in-out infinite;animation-delay:-2.33s;transform-origin:80px 164px}
+    .sp{animation:twinkle 2.4s ease-in-out infinite;transform-origin:0 0}
+    .s1{animation-delay:-2.09s}.s2{animation-delay:-2.89s}.s3{animation-delay:-3.69s}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes halo{0%,100%{transform:scale(.82);opacity:.55}50%{transform:scale(1.12);opacity:1}}
+    @keyframes float{0%,100%{transform:translateY(0) rotate(-3deg) scale(1)}50%{transform:translateY(-12px) rotate(3deg) scale(1.07)}}
+    @keyframes flip{0%,62%{transform:scaleX(1)}69%{transform:scaleX(0)}75%{transform:scaleX(-1)}81%{transform:scaleX(0)}88%,100%{transform:scaleX(1)}}
+    @keyframes shadow{0%,100%{transform:scaleX(1);opacity:.28}50%{transform:scaleX(.6);opacity:.1}}
+    @keyframes twinkle{0%,100%{transform:scale(0) rotate(0deg);opacity:0}50%{transform:scale(1.1) rotate(90deg);opacity:1}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <circle class="halo" cx="80" cy="84" r="72" fill="url(#halo)"/>
+  <circle class="ring" cx="80" cy="84" r="70" fill="none" stroke="#1572b6" stroke-width="1.8" stroke-dasharray="3 9" stroke-linecap="round" opacity=".75"/>
+  <g class="o1"><circle cx="80" cy="14" r="8" fill="#1572b6" opacity=".25"/><circle cx="80" cy="14" r="3.6" fill="#1572b6"/></g>
+  <g class="o2"><circle cx="80" cy="30" r="5" fill="#1572b6" opacity=".22"/><circle cx="80" cy="30" r="2.3" fill="#1572b6"/></g>
+  <ellipse class="shadow" cx="80" cy="164" rx="32" ry="5" fill="#808080"/>
+  <g class="float"><g class="flip"><g transform="translate(16 20)"><g><path fill="#1572B6" d="M18.814 114.123L8.76 1.352h110.48l-10.064 112.754-45.243 12.543-45.119-12.526z"/><path fill="#33A9DC" d="M64.001 117.062l36.559-10.136 8.601-96.354h-45.16v106.49z"/><path fill="#fff" d="M64.001 51.429h18.302l1.264-14.163H64.001V23.435h34.682l-.332 3.711-3.4 38.114h-30.95V51.429z"/><path fill="#EBEBEB" d="M64.083 87.349l-.061.018-15.403-4.159-.985-11.031H33.752l1.937 21.717 28.331 7.863.063-.018v-14.39z"/><path fill="#fff" d="M81.127 64.675l-1.666 18.522-15.426 4.164v14.39l28.354-7.858.208-2.337 2.406-26.881H81.127z"/><path fill="#EBEBEB" d="M64.048 23.435v13.831H30.64l-.277-3.108-.63-7.012-.331-3.711h34.646zm-.047 27.996v13.831H48.792l-.277-3.108-.631-7.012-.33-3.711h16.447z"/></g></g></g></g>
+  <g transform="translate(22 40)"><path class="sp s1" d="M0,-7 L1.8,-1.8 L7,0 L1.8,1.8 L0,7 L-1.8,1.8 L-7,0 L-1.8,-1.8Z" fill="#1572b6"/></g>
+  <g transform="translate(140 56)"><path class="sp s2" d="M0,-7 L1.8,-1.8 L7,0 L1.8,1.8 L0,7 L-1.8,1.8 L-7,0 L-1.8,-1.8Z" fill="#1572b6"/></g>
+  <g transform="translate(128 140)"><path class="sp s3" d="M0,-7 L1.8,-1.8 L7,0 L1.8,1.8 L0,7 L-1.8,1.8 L-7,0 L-1.8,-1.8Z" fill="#1572b6"/></g>
+</svg>

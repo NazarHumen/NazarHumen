@@ -28,73 +28,74 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/python.svg" alt="Python" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/python.svg" alt="Python" width="84" height="92" />
       <br>Python
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/django.svg" alt="Django" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/django.svg" alt="Django" width="84" height="92" />
       <br>Django
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/fastapi.svg" alt="FastAPI" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/fastapi.svg" alt="FastAPI" width="84" height="92" />
       <br>FastAPI
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/postgresql.svg" alt="PostgreSQL" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/postgresql.svg" alt="PostgreSQL" width="84" height="92" />
       <br>PostgreSQL
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/redis.svg" alt="Redis" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/redis.svg" alt="Redis" width="84" height="92" />
       <br>Redis
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/celery.svg" alt="Celery" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/celery.svg" alt="Celery" width="84" height="92" />
       <br>Celery
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/docker.svg" alt="Docker" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/docker.svg" alt="Docker" width="84" height="92" />
       <br>Docker
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/git.svg" alt="Git" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/git.svg" alt="Git" width="84" height="92" />
       <br>Git
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/github.svg" alt="GitHub" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/github.svg" alt="GitHub" width="84" height="92" />
       <br>GitHub
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/aws.svg" alt="AWS" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/aws.svg" alt="AWS" width="84" height="92" />
       <br>AWS
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/vuejs.svg" alt="Vue.js" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/vuejs.svg" alt="Vue.js" width="84" height="92" />
       <br>Vue.js
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/javascript.svg" alt="JavaScript" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/javascript.svg" alt="JavaScript" width="84" height="92" />
       <br>JavaScript
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/html5.svg" alt="HTML5" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/html5.svg" alt="HTML5" width="84" height="92" />
       <br>HTML5
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/css3.svg" alt="CSS3" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/css3.svg" alt="CSS3" width="84" height="92" />
       <br>CSS3
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/pycharm.svg" alt="PyCharm" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/pycharm.svg" alt="PyCharm" width="84" height="92" />
       <br>PyCharm
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/postman.svg" alt="Postman" width="70" height="77" />
+      <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/icons/postman.svg" alt="Postman" width="84" height="92" />
       <br>Postman
     </td>
   </tr>
 </table>
+
 
 <br></br>
 

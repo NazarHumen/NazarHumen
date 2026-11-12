@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 56" width="480" height="56" role="img" aria-label="Hi there, I’m Nazarii Humen" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset=".5" stop-color="#a371f7"/><stop offset="1" stop-color="#2dd4bf"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="type"><rect x="0" y="0" height="56" width="408">
+      <animate attributeName="width" values="0;408;408;408;0" keyTimes="0;.32;.88;.96;1" dur="9s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+  <style>
+    .caret{animation:blink .9s steps(1) infinite}
+    @keyframes blink{0%,50%{opacity:1}51%,100%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <g clip-path="url(#type)">
+    <text x="4" y="37" font-size="28" font-weight="800" fill="url(#tg)" textLength="400" lengthAdjust="spacingAndGlyphs">Hi there, I’m Nazarii Humen</text>
+    <rect x="4" y="46" width="400" height="2.5" rx="1.25" fill="url(#tg)" opacity=".7"/>
+  </g>
+  <rect class="caret" x="412" y="8" width="3" height="32" rx="1.5" fill="#58a6ff">
+    <animate attributeName="x" values="4;412;412;412;4" keyTimes="0;.32;.88;.96;1" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>

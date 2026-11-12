@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 54" width="400" height="54" role="img" aria-label="Always learning and improving my backend development skills" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff7b72" stop-opacity=".2"/><stop offset=".5" stop-color="#ff7b72"/><stop offset="1" stop-color="#fff" stop-opacity=".9"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#ff7b72" stop-opacity=".45"/><stop offset="1" stop-color="#ff7b72" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="clip"><rect x="1.5" y="3" width="397" height="48" rx="12"/></clipPath>
+    <filter id="blur" x="-10%" y="-30%" width="120%" height="160%"><feGaussianBlur stdDeviation="2.5"/></filter>
+  </defs>
+  <style>
+    .run{animation:run 5s linear infinite;animation-delay:-4.0s}
+    .sheen{animation:sheen 6s ease-in-out infinite;animation-delay:-2.25s}
+    .halo{animation:halo 3s ease-in-out infinite;animation-delay:-4.0s;transform-origin:30px 27px}
+    .gl{animation:gl 3s ease-in-out infinite;animation-delay:-4.0s;transform-origin:12px 12px}
+    .spin{animation:spin 6s linear infinite;transform-origin:12px 12px}
+    .fly{animation:fly 2s ease-in-out infinite}
+    @keyframes run{to{stroke-dashoffset:-1000}}
+    @keyframes sheen{0%{transform:translateX(-90px) skewX(-20deg)}55%,100%{transform:translateX(440px) skewX(-20deg)}}
+    @keyframes halo{0%,100%{transform:scale(.85);opacity:.6}50%{transform:scale(1.15);opacity:1}}
+    @keyframes gl{0%,100%{transform:scale(1)}50%{transform:scale(1.12)}}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes fly{0%,100%{transform:translateY(0)}50%{transform:translateY(-1.8px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="400" height="54" fill="url(#bg)"/>
+    <circle class="halo" cx="30" cy="27" r="38" fill="url(#glow)"/>
+    <rect x="1.5" y="3" width="3" height="48" fill="#ff7b72" opacity=".9"/>
+    <rect class="sheen" x="0" y="0" width="50" height="54" fill="url(#sheen)"/>
+  </g>
+  <circle cx="30" cy="27" r="19" fill="#ff7b72" fill-opacity=".12" stroke="#ff7b72" stroke-opacity=".45"/>
+  <g transform="translate(18 15)"><g class="gl" fill="none" stroke="#ff7b72" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><g class="fly"><path d="M12 2.5c3.2 2.3 4.6 6 4 10.5l-4 3.5-4-3.5c-.6-4.5.8-8.2 4-10.5z"/><circle cx="12" cy="9.5" r="1.6"/><path d="M8 13l-3 3.5 3.2-.7M16 13l3 3.5-3.2-.7M10 18.5L12 22l2-3.5"/></g></g></g>
+  <text x="62" y="25" font-size="13.5" fill="#c9d1d9"><tspan>Always learning and improving my</tspan></text>
+    <text x="62" y="42" font-size="13.5" fill="#c9d1d9"><tspan font-weight="700" fill="#ff7b72">backend development skills</tspan></text>
+  <rect x="1.5" y="3" width="397" height="48" rx="12" fill="none" stroke="#30363d"/>
+  <rect class="run" x="1.5" y="3" width="397" height="48" rx="12" fill="none" stroke="url(#edge)" stroke-width="4.5" pathLength="1000" stroke-dasharray="140 860" opacity=".5" filter="url(#blur)"/>
+  <rect class="run" x="1.5" y="3" width="397" height="48" rx="12" fill="none" stroke="url(#edge)" stroke-width="1.8" pathLength="1000" stroke-dasharray="140 860"/>
+</svg>

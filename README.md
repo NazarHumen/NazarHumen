@@ -5,20 +5,33 @@
 
 <!-- ═══════════════ Greeting ═══════════════ -->
 <h1>
-  Hi there, I'm Nazarii Humen
+  <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/greeting/heading.svg" alt="Hi there, I'm Nazarii Humen" width="480" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="40" align="center" />
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist" width="30" align="center" /> **Python Backend Developer**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" align="center" /> Currently working with **Django REST Framework**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="30" align="center" /> Currently learning **AWS**, **FastAPI** & **Vue.js**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" align="center" /> Building **REST APIs** and **scalable backend applications**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" /> Open to **Internship** & **Junior Backend Opportunities**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align="center" /> Always learning and improving my **backend development skills**
+<div>
+  <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/greeting/role.svg" alt="Python Backend Developer" width="400" />
+</div>
+<div>
+  <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/greeting/drf.svg" alt="Currently working with Django REST Framework" width="400" />
+</div>
+<div>
+  <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/greeting/learning.svg" alt="Currently learning AWS, FastAPI & Vue.js" width="400" />
+</div>
+<div>
+  <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/greeting/apis.svg" alt="Building REST APIs and scalable backend applications" width="400" />
+</div>
+<div>
+  <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/greeting/open.svg" alt="Open to Internship & Junior Backend Opportunities" width="400" />
+</div>
+<div>
+  <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/greeting/growth.svg" alt="Always learning and improving my backend development skills" width="400" />
+</div>
 
 <br clear="right"/>
+
 
 <!-- ═══════════════ Tools ═══════════════ -->
 <h1>

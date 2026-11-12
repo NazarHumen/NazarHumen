@@ -104,59 +104,20 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="330">
-      <h3><a href="https://github.com/NazarHumen/drf-vue-military">🛡️ Military Shop</a></h3>
+    <td align="center" valign="top">
+      <a href="https://github.com/NazarHumen/drf-vue-military">
+        <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/cards/military-shop.svg" alt="Military Shop" width="260" />
+      </a>
     </td>
-    <td align="center" valign="top" width="330">
-      <h3><a href="https://github.com/NazarHumen/task-wallet-fastapi">💼 TaskWallet</a></h3>
+    <td align="center" valign="top">
+      <a href="https://github.com/NazarHumen/task-wallet-fastapi">
+        <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/cards/taskwallet.svg" alt="TaskWallet" width="260" />
+      </a>
     </td>
-    <td align="center" valign="top" width="330">
-      <h3><a href="https://github.com/NazarHumen/airporthub-drf">✈️ AirportHub</a></h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="330">
-      <p>A full-stack e-commerce web application<br>for buying and managing military equipment</p>
-    </td>
-    <td align="center" valign="top" width="330">
-      <p>A backend task management system with an internal wallet,<br>role-based access, and secure payment workflow</p>
-    </td>
-    <td align="center" valign="top" width="330">
-      <p>A backend aviation ticketing system<br>with asynchronous background task processing</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" width="330">
-      <img src="https://skillicons.dev/icons?i=django,vue,postgres,docker,aws" height="40" />
-    </td>
-    <td align="center" valign="middle" width="330">
-      <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker" height="40" />
-    </td>
-    <td align="center" valign="middle" width="330">
-      <img src="https://skillicons.dev/icons?i=django,postgres,redis,docker" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="330">
-      <p>
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-        <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-    <td align="center" valign="top" width="330">
-      <p>
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-      </p>
-    </td>
-    <td align="center" valign="top" width="330">
-      <p>
-        <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
+    <td align="center" valign="top">
+      <a href="https://github.com/NazarHumen/airporthub-drf">
+        <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/cards/airporthub.svg" alt="AirportHub" width="260" />
+      </a>
     </td>
   </tr>
 </table>

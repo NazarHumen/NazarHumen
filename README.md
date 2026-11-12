@@ -6,7 +6,6 @@
 <!-- ═══════════════ Greeting ═══════════════ -->
 <h1>
   <img src="https://raw.githubusercontent.com/NazarHumen/NazarHumen/main/assets/greeting/heading.svg" alt="Hi there, I'm Nazarii Humen" width="480" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="40" align="center" />
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
